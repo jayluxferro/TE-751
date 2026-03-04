@@ -1,0 +1,15 @@
+[project]
+name = "te751-aiml-2026"
+version = "0.1.0"
+description = "TE 751: AI/ML for Next Generation Communication Systems - Lab Code (2026)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy",
+    "matplotlib",
+    "scikit-learn",
+    "langchain",
+    "langchain-core",
+    "langgraph",
+    "torch",
+]
